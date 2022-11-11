@@ -1,0 +1,14 @@
+{
+  "name": "fem-manage-landing-page",
+  "version": "1.0.0",
+  "description": "![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joana Parente",
+  "license": "ISC",
+  "dependencies": {
+    "a11y-slider": "^0.4.17"
+  }
+}
