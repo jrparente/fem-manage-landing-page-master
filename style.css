@@ -338,7 +338,9 @@ footer {
   color: transparent;
   background-color: var(--Dark-Grayish-Blue);
 }
-
+.a11y-slider-dots li button.active {
+  background-color: var(--Bright-Red);
+}
 /* CTA section */
 
 .cta {
